@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Fri Jun 03 21:09:02 CST 2016
+genBasicCompId=true
+sessionFactoryName=
+profile=
+daoSFId=
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=
+useJavaTypes=true
+keyGenerator=sequence
+genVersionTag=true
+sessionFactoryId=sessionFactory
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/BirdHouse2/src/applicationContext.xml
+createConfigFile=true
